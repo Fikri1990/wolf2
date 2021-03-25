@@ -1,0 +1,47 @@
+{
+  "Account": {
+    "Auth Key": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI1IiwianRpIjoiYzVhYjY5MGY0NzFiZDU1YWJmNzM3NWVhMDdhODQ2ZjZmMTI0NTkzOWE3YzFhZjQxMDBmODA5MjRlNjc1MWFkYWRmMzg1MGEwODZmMTI1MTUiLCJpYXQiOjE2MTY1NjE3MjYsIm5iZiI6MTYxNjU2MTcyNiwiZXhwIjoxNjQ4MDk3NzI2LCJzdWIiOiIzNjQ0NTIiLCJzY29wZXMiOltdfQ.kk04DatxeN7eo-YvW5DdMf8tIqdC6RnbnaDvOEy1mzvzHz3fwY6OsBxYTWTw9qQNrFaFwLdLxIC3iTHvCpUzZLuH8SPqdkMXhbQV5sr1dAXM_xVNNP4ZRCEoYq-XYs_SGlL0JaMS7RpF_pM1zEOU2tgUWpiHFT-2WnCTbXjgW_MzjVeLSZi2kXX3S9hNLO6yeRL1MZjsG7DoCFLN5RekPuF5pJtPBOtfQBipG29EtkV42RHY3d-rcjc6lvAgRnLpPvgqJczDue-2ATRyzaBTTVbPXZNThHwH6uSNA7OfZiY28O4kvwIDXe-DR7kKkZt4vcyxcfUSV8rOKwaqJnJ4JM3xE8q1HiOnKnoMxb-8p6PtH6f29PP8lK6ymhVDFawwX0dJdl1Prq2GFrlqzDB5jfZ2RV06WKDoDa3rcktg1ObhPEPys7oVhiidJh6lT8Sj7vsKgoiYt3taEYaxjLrq-Cj8k351yNfHD9IPZnhynbOsWvfXfSOTDL1du6eELnZ7lVj-7DvQQrgsVZGFQroW-I6dxNXukpHJ8OnM65sFqLMSJoMZnpdhQ8pdv5Cw9gdl1SvkRxdqfYIrvQ9IGOBpEvfQD6i4g4LIpcEC9cQwKGUCfEBs83dgFzwg_vE6BzvHUYTP4AGyaxRzkN-PR7zkNILu-QWSMsif3exchZMDLRQ",
+    "Currency": "doge",
+    "Auto Proxy": "OFF"
+  },
+  "Target Profit": "100",
+  "Target Win": "10000",
+  "Lose Target": "0",
+  "Reset Seed": "500",
+  "Betset": [
+    {
+      "Name Bet Set": "00 - @BEDUCODE SETTING",
+      "Base Bet": "0.0001",
+      "Chance": "4",
+      "Random Chance": {
+        "Toggle": "ON",
+        "Min": "4",
+        "Max": "5"
+      },
+      "Bet": {
+        "Bet": "Hi",
+        "Hi / Low": {
+          "Toggle": "ON",
+          "If Lose": "1",
+          "If Win": "1"
+        }
+      },
+      "Mode1": {
+        "Toggle": "OFF",
+        "Lose": "1.4",
+        "Win": "1",
+        "Profit": "0.00000001"
+      },
+      "Dalembert": {
+        "Toggle": "ON",
+        "Prebet": "0.00000001",
+        "Preroll": "50",
+        "AutoPreroll": "OFF",
+        "Profit": "0.00000001",
+        "PecSubtractPreroll": "20"
+      },
+      "If Win": "1.8",
+      "If Lose": "1.4"
+    }
+  ]
+}
